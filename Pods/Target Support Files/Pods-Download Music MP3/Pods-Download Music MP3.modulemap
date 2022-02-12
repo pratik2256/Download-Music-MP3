@@ -1,0 +1,6 @@
+framework module Pods_Download_Music_MP3 {
+  umbrella header "Pods-Download Music MP3-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.5.0)
+  - IQKeyboardManagerSwift (6.5.9)
+  - LGSideMenuController (3.0.1)
+  - MKProgress (1.1.0)
+  - SDWebImage (5.12.2):
+    - SDWebImage/Core (= 5.12.2)
+  - SDWebImage/Core (5.12.2)
+  - Toaster (2.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - LGSideMenuController (~> 3.0.1)
+  - MKProgress
+  - SDWebImage
+  - Toaster
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - LGSideMenuController
+    - MKProgress
+    - SDWebImage
+    - Toaster
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  LGSideMenuController: efdd688a7cd173b41996485f215d91e2bc8a520f
+  MKProgress: 260d166200323f3d991190a73ab2dc3a04b0f52f
+  SDWebImage: 240e5c12b592fb1268c1d03b8c90d90e8c2ffe82
+  Toaster: c3473963c78e8cabbf6ea6f11ad0fdaae6f54987
+
+PODFILE CHECKSUM: 8ce4905aa7e076d306f76e22a2eee113e8bf8ebc
+
+COCOAPODS: 1.11.2
